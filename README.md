@@ -2,6 +2,7 @@
 
 Welcome to my central Power BI Portfolio repository! This repository showcases interactive, end-to-end Business Intelligence dashboards covering financial course performance, student enrollment, regional sales, and workforce HR statistics.
 
+> 🔒 **Security Notice:** The underlying Power BI Desktop source files (`.pbix`) are retained privately to protect custom DAX metrics, data model structures, and proprietary dashboard layouts. High-resolution previews and live interactive reports are provided below for evaluation.
 ---
 
 ## 1. 🎓 SMD Digital World Academy - Power BI Analytical Report
