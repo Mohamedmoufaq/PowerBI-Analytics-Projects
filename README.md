@@ -1,4 +1,4 @@
-# 📊 SMD Digital World Academy - Power BI Analytical Report
+# 📊 SMD Digital World Academy & HR Analytics - Power BI Portfolio
 
 Welcome to my central Power BI Portfolio repository! This repository showcases interactive, end-to-end Business Intelligence dashboards covering financial course performance, student enrollment, regional sales, and workforce HR statistics.
 
@@ -55,6 +55,6 @@ An interactive HR Analytics dashboard designed to track employee demographics, a
 ---
 
 ## 👤 Author & Contact
-- **Developer:** S.M. Mohamed Moufaq
+- **Developer:** Mohamed Moufaq S
 - **Domain:** Data Analytics & Power BI
 - **GitHub:** [github.com/Mohamedmoufaq](https://github.com/Mohamedmoufaq)
